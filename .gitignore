@@ -1,5 +1,5 @@
 # Untracked folders
 node_modules
-
+.test
 # Untracked files
 Thumbs.db
